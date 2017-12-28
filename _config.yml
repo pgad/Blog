@@ -1,0 +1,9 @@
+# basic options
+title: Artificially Intelligent
+author: whodunnit
+email: email@email.com
+description: Machine learning and whatever else we find interesting
+
+# Build settings
+markdown: kramdown
+theme: hack
