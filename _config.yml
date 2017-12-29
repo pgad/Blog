@@ -6,4 +6,4 @@ description: Machine learning and whatever else we find interesting
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme:  jekyll-theme-midnight
